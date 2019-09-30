@@ -1,5 +1,5 @@
 {
-  "name": "adonis-mqtt",
+  "name": "adonis-mqtt-plugin",
   "version": "0.2.0",
   "description": "Easily connect MQTT to you adonisjs app",
   "main": "index.js",
@@ -71,6 +71,5 @@
       "use",
       "make"
     ]
-  },
-  
+  }
 }

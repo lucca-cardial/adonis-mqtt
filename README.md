@@ -22,7 +22,7 @@ These are the features that I still want to developing in the near future.
 adonis install adonis-mqtt
 ```
 
-See [instructions.md](instructions.md) for configuration and usage.
+See [instructions.md](https://github.com/lucca-cardial/adonis-mqtt/blob/master/instructions.md) for configuration and usage.
 
 
 ## Contributing

@@ -17,6 +17,13 @@
     "mqtt"
   ],
   "author": "Mitchell Herrijgers",
+  "contributors": [
+    {
+      "name": "Lucas Cardial",
+      "email": "lucas@codeall.com",
+      "url": "https://github.com/lucca-cardial"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "aws-device-gateway-signed-url": "^1.0.0",
@@ -64,5 +71,6 @@
       "use",
       "make"
     ]
-  }
+  },
+  
 }
